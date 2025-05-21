@@ -5,10 +5,13 @@ sites:
   - name: WoA Games
     url: https://woagames.onrender.com
 
+workflowSchedule:
+  uptime: "0 * * * *"
+
 status-website:
   baseUrl: /check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WoA Games Uptime
+  name: WoA Games Status
   introTitle: "**WoA Games Status Page** powered by Upptime"
   introMessage: This status page monitors uptime for [WoA Games](https://woagames.onrender.com) using **Upptime**, GitHub Actions, and GitHub Pages — no server required.
   navbar:
