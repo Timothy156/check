@@ -4,17 +4,19 @@
     "url": "https://woagames.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/woagames.onrender.com.ico",
     "slug": "wo-a-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 113,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {}
+    "time": 216,
+    "timeDay": 176,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   }
 ]
